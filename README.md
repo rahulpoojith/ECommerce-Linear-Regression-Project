@@ -25,7 +25,7 @@ X are the predictores, and y is the output. What we want to do is create a model
 * fitting/training data:
 * running columns as observations & one column for the coefficient (Note: The higer coefficient = more important)
 
-4)Predictions
+4) Predictions
 * giving values for x, using the X-test
 * visualizating predictions (x-axis) and actual y values (y-axis)
 
